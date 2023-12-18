@@ -1,6 +1,6 @@
 # E-learning platform
 
-A social network
+An E-learning platform
 
 ## Description
 
